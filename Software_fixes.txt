@@ -1,0 +1,6 @@
+1. Include the script of ATR data pulling from SCDOT website in the software
+2. Create a CSV file with the list of ATR numbers and their functional classes so that SCDOT can update the list with new ATR
+3. Multiply growth factor by year difference.
+4. Add a nice Logo
+5. Give a name to the software- SCDOT estimAADTion
+6. Check drag and drop box 
